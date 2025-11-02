@@ -1,0 +1,7 @@
+{
+  "name": "Gemini English Coach",
+  "description": "An AI-powered English coach for Korean speakers. Get real-time feedback on your pronunciation and grammar, or translate Korean to natural-sounding English. Powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
